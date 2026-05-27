@@ -1,6 +1,6 @@
 # UltraConsole
 
-A cross-platform AI-powered desktop console built with Electron. UltraConsole brings together a suite of specialized tools — Brain, DeepDive, Atlas, Wikii, AppBox, and more — all accessible from a unified dashboard with a built-in AI chat powered by Google Gemini, Claude, and Grok.
+A cross-platform AI-powered desktop console built with Electron. UltraConsole brings together a suite of specialized tools — all accessible from a unified dashboard with a built-in AI chat powered by Google Gemini, Claude, and Grok.
 
 ## Download
 
