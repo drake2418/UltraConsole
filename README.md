@@ -15,11 +15,9 @@ Grab the latest installer from the [Releases](../../releases) page.
 - **DeepDive** — deep research and system diagnostics with AI
 - **Atlas** — network scanning and analysis
 - **Wikii** — personal knowledge base manager
-- **AppBox** — run AI-generated mini-apps in a sandboxed environment
 - **InstaGen** — AI image generation
 - **Ultra Orb** — live voice AI assistant
 - **Link** — SSH manager and terminal
-- **WarpAccess** — remote desktop (RDP) client
 - **Local AI** — run Gemma 4 fully on-device via Ollama (no API key needed)
 - **Auto-Updates** — built-in update system
 
