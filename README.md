@@ -21,27 +21,6 @@ Grab the latest installer from the [Releases](../../releases) page.
 - **Local AI** — run Gemma 4 fully on-device via Ollama (no API key needed)
 - **Auto-Updates** — built-in update system
 
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) v18+
-- [npm](https://www.npmjs.com/) v9+
-
-### Install & Run
-
-```bash
-npm install
-npm start
-```
-
-### Build Windows Installer
-
-```bash
-npm run build-win-installer
-```
-
-Output: `dist/UltraConsoleSetup-<version>.exe`
 
 ## AI Model Support
 
