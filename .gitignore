@@ -1,0 +1,77 @@
+node_modules/
+dist/
+dist-prior-builds/
+build-macos/
+
+# Logs and runtime artifacts
+*.log
+.DS_Store
+Thumbs.db
+
+# Python virtualenvs (developer-machine bound — never ship)
+.venv/
+venv/
+env/
+ENV/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Environment variables (contains sensitive credentials)
+.env
+.env.local
+.env.*.local
+
+# macOS code signing / provisioning
+*.provisionprofile
+embedded.provisionprofile
+*.p12
+*.pem
+*.cer
+
+# Build / installer artifacts
+*.dmg
+*.pkg
+*.app
+*.exe
+*.msi
+*.deb
+*.rpm
+*.AppImage
+*.snap
+*.zip
+latest.yml
+latest-mac.yml
+latest-linux.yml
+
+# Python bundles & model caches (large binary downloads)
+python-bundle/
+shap_e_model_cache/
+
+# Electron asar & block maps
+*.asar
+*.blockmap
+
+# Certificates & signing keys
+DeveloperIDG2CA.cer
+
+# Misc scratch files
+null
+~
+*.tmp
+*.bak
+*.backup
+app_debug.log
+app.log
+build-output.log
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
